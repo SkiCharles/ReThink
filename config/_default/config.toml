@@ -1,4 +1,5 @@
 baseURL = " https://skicharles.github.io/"
 languageCode = "en-us"
 title = "ReThink"
-theme = "ananke"
+theme = "paper"
+git submodule add https://github.com/nanxiaobei/hugo-paper themes/paper
