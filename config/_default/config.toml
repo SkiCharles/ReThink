@@ -2,25 +2,3 @@ baseURL = " https://skicharles.github.io/"
 languageCode = "en-us"
 title = "ReThink"
 theme = "paper"
-disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
-
-[params]
-  # color style
-  color = 'linen'                           # linen, wheat, gray, light
-
-  # header social icons
-  twitter = 'twitter.com/nanshanjukr'               
-  rss = true                                # show rss icon
-
-  # home page profile
-  avatar = 'https://substackcdn.com/image/fetch/w_1360,c_limit,f_webp,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55552455-da24-4878-a9fa-e8df942e8b26_600x600.png'                 # gravatar email or image url
-  name = 'ReThink_重新思考'
-  bio = '重新思考栏目主理人'
-
-
-  # misc
-  disableHLJS = true                        # disable highlight.js
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
-  math = true                               # enable KaTex math typesetting globally
